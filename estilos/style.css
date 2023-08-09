@@ -44,7 +44,7 @@ section#login > div#imagem {
     display: block;
     background: #5f2c82 url('../imagens/pexels-vinícius-estevão-2896034.jpg') no-repeat;
     background-size: cover;
-    background-position: top, left;
+    background-position: center, top;
     height: 200px;
 }
 
